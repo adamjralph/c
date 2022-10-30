@@ -3,7 +3,14 @@
 
 int main() {
 
-  bool
+  bool sunny = false;
+
+  if(!sunny) {
+    printf("\nIt's cloudy outside");
+
+  } else {
+    printf("\nIt's sunny outside");
+  }
 
 
   return 0;
