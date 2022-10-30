@@ -13,7 +13,8 @@ int main()
 {
 
   birthday();
-
+  birthday();
+  birthday();
   
   return 0;
 }
